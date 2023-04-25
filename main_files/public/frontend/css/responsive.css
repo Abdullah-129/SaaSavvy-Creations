@@ -1,0 +1,2914 @@
+@media (min-width: 1200px) and (max-width: 1399.99px) {
+	.banner_text {
+		margin-top: 34px;
+	}
+
+	.clients_img img {
+		width: 230px;
+		height: 230px;
+	}
+
+	.why_choose_text {
+		padding-left: 20px;
+	}
+
+	.bread_overlay {
+		padding: 225px 0px 140px 0px;
+	}
+
+	.single_post .single_text {
+		width: 64%;
+	}
+
+	.comm_text {
+		width: 87%;
+	}
+
+	#breadcrumb_part .img {
+		width: 500px;
+		height: 200px;
+	}
+
+	/* dashboard start */
+	.ai_writing_sidebar {
+		padding: 10px;
+	}
+
+	/* dashboard end */
+}
+
+@media (min-width: 992px) and (max-width: 1199.99px) {
+
+	/******************************
+		HOME PAGE START 
+	*******************************/
+	/*===================
+		MENU START
+	=====================*/
+	.main_menu .navbar-toggler {
+		outline: 0;
+		margin-right: 15px;
+		border: 1px solid #fff;
+		padding: 0;
+		color: #fff;
+		border-radius: 3px;
+		width: 35px;
+		height: 35px;
+		line-height: 32px;
+		text-align: center;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	.dropdown-menu.show {
+		display: block;
+		margin-right: 25px;
+	}
+
+	.dropdown-menu.show {
+		margin-left: -107px;
+	}
+
+	/*===================
+		MENU END
+	=====================*/
+
+	/*===================
+		BANNER START
+	=====================*/
+	.banner_text {
+		margin-top: 42px;
+	}
+
+	.banner_text p {
+		width: 70%;
+	}
+
+	.banner_text a {
+		margin-bottom: 20px;
+	}
+
+	.common_btn {
+		font-size: 14px;
+		padding: 14px 20px;
+	}
+
+	.banner_text .common_btn {
+		margin-bottom: 20px;
+	}
+
+	.banner_img {
+		margin-top: 40px;
+	}
+
+	/*===================
+		BANNER END
+	=====================*/
+
+	/*===================
+		WORK START
+	=====================*/
+	#work_part {
+		padding: 100px 0px 100px 0px;
+	}
+
+	.medium_heading {
+		margin: 20px 0px 25px 0px;
+	}
+
+	/*===================
+		WORK END
+	=====================*/
+
+	/*===================
+	  CARD PART START
+	=====================*/
+	.card_area {
+		margin-top: 15px;
+	}
+
+	/*===================
+	  CARD PART END
+	=====================*/
+
+	/*===================
+	  PROFILE START
+	=====================*/
+	#profile_part {
+		padding: 60px 0px 30px 0px;
+	}
+
+	#profile_part .heading_area {
+		margin-bottom: 40px;
+	}
+
+	/*===================
+	  PROFILE END
+	=====================*/
+
+	/*===================
+		PRICING  START
+	=====================*/
+	#pricing_part {
+		padding-bottom: 30px;
+	}
+
+	#pricing_part .nav-tabs {
+		margin-bottom: 40px;
+	}
+
+	#pricing_part .nav-tabs .nav-link {
+		font-size: 13px;
+	}
+
+	.single_price {
+		margin-bottom: 30px;
+	}
+
+	/*===================
+		PRICING  END
+	=====================*/
+
+	/*===================
+	  TESTIMONIAL START
+	=====================*/
+	.clients_text {
+		border: 0;
+		padding-left: 0;
+	}
+
+	.clients_text p {
+		font-size: 14px;
+	}
+
+	.clients_text h3 {
+		margin: 20px 0px 16px 0px;
+	}
+
+	/*===================
+	  TESTIMONIAL END
+	=====================*/
+
+	/*===================
+	  BLOG PART START
+	=====================*/
+	.blog_area {
+		margin-top: -15px;
+	}
+
+	.single_blog {
+		margin-top: 25px;
+	}
+
+	/*===================
+	  BLOG PART END
+	=====================*/
+
+
+	/*===================
+	  SUBSCRIBE PART START
+	=====================*/
+	#subscribe {
+		margin-bottom: -65px;
+	}
+
+	.subs_text h3 {
+		margin-bottom: 15px;
+		text-align: center;
+	}
+
+	.subs_text h3::after {
+		height: 3px;
+		top: 0px;
+	}
+
+	/*===================
+	  SUBSCRIBE PART END
+	=====================*/
+
+	/*===================
+	   FOOTER   START
+	=====================*/
+	footer h3 {
+		margin-bottom: 17px;
+		font-size: 20px;
+	}
+
+	.footer_text {
+		margin-bottom: 40px;
+		overflow: hidden;
+	}
+
+	.footer_link li {
+		margin-bottom: 7px;
+	}
+
+	.footer_bottom {
+		margin-top: 0;
+		padding: 10px 0px;
+	}
+
+	/*===================
+		FOOTER   END
+	=====================*/
+	/******************************
+	HOME PAGE END 
+	*******************************/
+
+	/*===================
+	   BREADCRUMB START
+	=====================*/
+	.bread_overlay {
+		padding: 180px 0px 88px 0px;
+	}
+
+	#breadcrumb_part h4 {
+		font-size: 55px;
+	}
+
+	#breadcrumb_part nav {
+		margin-top: 5px;
+	}
+
+	.breadcrumb-item+.breadcrumb-item::before {
+		padding-left: 6px;
+		padding-right: 15px;
+	}
+
+	/*===================
+	   BREADCRUMB END
+	=====================*/
+
+	.about {
+		padding: 100px 0px 100px 0px !important;
+	}
+
+	.about .about_img {
+		margin-top: 70px;
+		height: 550px;
+	}
+
+	/*===================
+	  BLOG START
+	=====================*/
+
+	#blog_part .heading_area {
+		margin-bottom: 20px;
+	}
+
+	/*===================
+	  BLOG END
+	=====================*/
+
+	/*===================
+	  GET IN TOUCH START
+	=====================*/
+	#get_in_touch .heading_area {
+		margin-bottom: 34px;
+	}
+
+	.ger_in_area input,
+	.ger_in_area textarea {
+		padding: 10px;
+		font-size: 14px;
+	}
+
+	.user_contact {
+		padding-top: 0px;
+	}
+
+	/*===================
+	  GET IN TOUCH END
+	=====================*/
+
+	/***********************
+	  BLOG DETAILS START
+	************************/
+	.block_business_img {
+		display: block;
+		overflow: hidden;
+	}
+
+	.blog_business img {
+		margin-bottom: 30px;
+		margin-right: 0;
+	}
+
+	.blog_business ul li {
+		font-size: 13px;
+	}
+
+	.left_btn_area span {
+		font-size: 13px;
+		padding: 10px 15px;
+	}
+
+	.share_blog h4 {
+		font-size: 18px;
+	}
+
+	.single_comment .comm_img {
+		width: 13%;
+	}
+
+	.comm_text {
+		width: 84%;
+	}
+
+	.comm_text .com_top_area {
+		font-size: 13px;
+	}
+
+	.comm_text h5 {
+		font-size: 14px;
+	}
+
+	.comm_text p {
+		font-size: 13px;
+	}
+
+	.comm_bottom h3 {
+		font-size: 15px;
+	}
+
+	.comm_bottom h6 {
+		font-size: 12px;
+	}
+
+	.comment_input .input_1,
+	.comment_input .input_2,
+	.comment_input .input_3,
+	.comment_input textarea {
+		width: 100%;
+		border-radius: 5px;
+		margin-top: 20px;
+	}
+
+	.comment_input .form-check label {
+		font-size: 13px;
+	}
+
+	.tag_link li:nth-child(3) a,
+	.tag_link li:nth-child(6) a {
+		margin-right: 10px;
+	}
+
+	.recent_post .tag_link li a {
+		padding: 7px 11px;
+		margin-right: 12px;
+		margin-bottom: 5px;
+		font-size: 12px;
+	}
+
+	.recent_post {
+		margin-top: 40px;
+	}
+
+	.blockquot p {
+		font-size: 14px;
+	}
+
+	/***********************
+	  BLOG DETAILS END
+	************************/
+
+	/***********************
+		FAQS PAGE START
+	************************/
+	#accordion .accordion_img {
+		margin-top: 30px;
+	}
+
+	#accordion .heading_area {
+		margin-bottom: 39px;
+	}
+
+	/***********************
+		FAQS PAGE END
+	************************/
+
+	/***********************
+	  PRICING PAGE START
+	************************/
+	#member_pricing .price_btn {
+		margin-bottom: 35px;
+	}
+
+	/***********************
+	  PRICING PAGE END
+	************************/
+
+	/***********************
+	 TESTIMONIAL PAGE START
+	************************/
+	.review_page {
+		padding-top: 60px !important;
+	}
+
+	.review_page .heading_area {
+		margin-bottom: 35px !important;
+	}
+
+	/***********************
+	  TESTIMONIAL PAGE END
+	************************/
+	.contact_box {
+		margin-bottom: 30px;
+	}
+
+	.ger_in_area {
+		margin-top: 20px;
+	}
+
+	.contact_map {
+		margin-top: 25px;
+	}
+
+	.menu_right {
+		justify-content: center;
+	}
+
+	.work_img img {
+		height: 450px;
+	}
+
+	.why_choose_img .img_1 {
+		width: 430px !important;
+		height: 430px !important;
+	}
+
+	.why_choose_img .img_2,
+	.why_choose_img .img_3 {
+		width: 270px !important;
+		height: 270px !important;
+	}
+
+	.why_choose_img .img_3 {
+		left: auto;
+		bottom: 0;
+		right: 0;
+	}
+
+	.why_choose_img .img_2 {
+		position: absolute;
+		top: auto;
+		bottom: 150px;
+	}
+
+	.why_choose_text {
+		padding-left: 0;
+	}
+
+	.single_slider {
+		padding: 30px;
+	}
+
+	.clients_img img {
+		width: 180px;
+		height: 180px;
+	}
+
+	.clients_text::after {
+		top: 33px;
+		left: 0;
+		font-size: 35px;
+	}
+
+	.subscribe_bg_overlay {
+		padding: 35px 35px 40px 35px;
+	}
+
+	.foot_overlay {
+		padding-top: 130px;
+	}
+
+	#breadcrumb_part .img {
+		width: 380px;
+		height: 165px;
+	}
+
+	.single_post .single_text {
+		width: 63%;
+	}
+
+	/* dashboard start */
+	.ai_writing_sidebar {
+		padding: 10px;
+	}
+
+	.wsus__invoice_header .header_address {
+		max-width: 45%;
+	}
+
+	.wsus__dashboard .member_price {
+		padding: 10px;
+	}
+
+	.wsus__dashboard .member_price ul li {
+		font-size: 14px;
+	}
+
+	/* dashboard end */
+
+	.wsus__package_details {
+		margin-top: 25px;
+	}
+
+	.wsus__404_text .img {
+		height: 330px;
+	}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.99px) {
+
+	/******************************
+		HOME PAGE START 
+	*******************************/
+	/*===================
+		MENU START
+	=====================*/
+	.main_menu {
+		height: 60px;
+		border-bottom: 1px solid #378FFF;
+		background: #378FFF;
+	}
+
+	.main_menu .container {
+		padding: 3px 0px 5px 0px;
+	}
+
+	.main_menu .navbar-brand {
+		margin-left: 15px;
+		width: 120px;
+	}
+
+	.main_menu .navbar-toggler {
+		outline: 0;
+		margin-right: 15px;
+		border: 1px solid #fff;
+		padding: 0;
+		color: #fff;
+		border-radius: 3px;
+		width: 35px;
+		height: 35px;
+		line-height: 32px;
+		text-align: center;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	.main_menu #navbarSupportedContent {
+		background: #fff;
+		padding: 15px 0px;
+		text-align: center;
+		margin-top: 11px;
+		border-bottom: 1px solid #378FFF;
+	}
+
+	.dropdown-menu.show {
+		display: block;
+		margin-right: 25px;
+	}
+
+	.dropdown-menu.show {
+		margin-left: -107px;
+	}
+
+	/*===================
+		MENU END
+	=====================*/
+
+	/*===================
+		BANNER START
+	=====================*/
+	#banner {
+		padding: 130px 0px 90px 0px;
+		height: auto;
+	}
+
+	.banner_text a {
+		margin-bottom: 20px;
+	}
+
+	.common_btn {
+		font-size: 14px;
+		padding: 14px 20px;
+	}
+
+	.banner_text .common_btn {
+		margin-bottom: 20px;
+	}
+
+	.banner_img {
+		margin-top: 40px;
+	}
+
+	/*===================
+		BANNER END
+	=====================*/
+
+	/*===================
+		WORK START
+	=====================*/
+
+	#work_part {
+		padding: 0px 0px 37px 0px;
+	}
+
+	.work_text {
+		margin-top: 40px;
+	}
+
+	.medium_heading {
+		font-size: 25px;
+		margin: 20px 0px 25px 0px;
+	}
+
+	/*===================
+		WORK END
+	=====================*/
+
+	/*===================
+	  CARD PART START
+	=====================*/
+	#card_part {
+		padding: 58px 0px 43px 0px;
+	}
+
+	.card_area {
+		margin-top: 15px;
+	}
+
+	/*===================
+	  CARD PART END
+	=====================*/
+
+	/*===================
+	  PROFILE START
+	=====================*/
+	#profile_part {
+		padding: 60px 0px 30px 0px;
+	}
+
+	#profile_part .heading_area {
+		margin-bottom: 40px;
+	}
+
+	/*===================
+	  PROFILE END
+	=====================*/
+
+	/*===================
+		PRICING  START
+	=====================*/
+	#pricing_part {
+		padding-bottom: 30px;
+	}
+
+	#pricing_part .nav-tabs {
+		margin-bottom: 40px;
+	}
+
+	#pricing_part .nav-tabs .nav-link {
+		font-size: 13px;
+	}
+
+	.single_price {
+		margin-bottom: 30px;
+	}
+
+	/*===================
+		PRICING  END
+	=====================*/
+
+	/*===================
+	  TESTIMONIAL START
+	=====================*/
+	#testimonial {
+		padding: 58px 0px 60px 0px;
+	}
+
+	.clients_text {
+		border: 0;
+		padding-left: 0;
+	}
+
+	.clients_text p {
+		font-size: 14px;
+	}
+
+	.clients_text h3 {
+		margin: 20px 0px 16px 0px;
+	}
+
+	/*===================
+	  TESTIMONIAL END
+	=====================*/
+
+	/*===================
+	  BLOG PART START
+	=====================*/
+	#blog_part {
+		padding: 57px 0px 0px 0px;
+		padding-bottom: 0px !important;
+	}
+
+	.blog_area {
+		margin-top: -15px;
+	}
+
+	.single_blog {
+		margin-top: 25px;
+	}
+
+	/*===================
+	  BLOG PART END
+	=====================*/
+
+	/*===================
+	  SUBSCRIBE PART START
+	=====================*/
+	#subscribe {
+		padding-top: 58px;
+	}
+
+	.subs_text h3 {
+		margin-bottom: 15px;
+		text-align: center;
+	}
+
+	.subs_text h3::after {
+		height: 3px;
+		top: 0px;
+	}
+
+	/*===================
+	  SUBSCRIBE PART END
+	=====================*/
+
+	/*===================
+	   FOOTER   START
+	=====================*/
+	footer {
+		background-position: left;
+	}
+
+	footer h3 {
+		margin-bottom: 17px;
+		font-size: 17px;
+	}
+
+	.footer_text {
+		margin-bottom: 40px;
+		overflow: hidden;
+	}
+
+	.footer_link li {
+		margin-bottom: 7px;
+	}
+
+	.footer_bottom {
+		margin-top: 0;
+		padding: 10px 0px;
+	}
+
+	/*===================
+		FOOTER   END
+	=====================*/
+	/******************************
+	HOME PAGE END 
+	*******************************/
+
+	/*===================
+	   BREADCRUMB START
+	=====================*/
+	.bread_overlay {
+		padding: 135px 0px 60px 0px;
+	}
+
+	#breadcrumb_part h4 {
+		font-size: 45px;
+	}
+
+	#breadcrumb_part nav {
+		margin-top: 5px;
+	}
+
+	.breadcrumb-item+.breadcrumb-item::before {
+		padding-left: 6px;
+		padding-right: 15px;
+	}
+
+	/*===================
+	   BREADCRUMB END
+	=====================*/
+
+	.about {
+		padding: 0px 0px 60px 0px !important;
+	}
+
+	.about .about_img {
+		margin-top: 50px;
+		width: 550px;
+		height: 500px;
+	}
+
+	/*===================
+	  BLOG START
+	=====================*/
+
+	#blog_part .heading_area {
+		margin-bottom: 20px;
+	}
+
+	/*===================
+	  BLOG END
+	=====================*/
+
+	/*===================
+	  GET IN TOUCH START
+	=====================*/
+	#get_in_touch {
+		padding-bottom: 0;
+		margin-top: 60px;
+	}
+
+	#get_in_touch .heading_area {
+		margin-bottom: 34px;
+	}
+
+	.ger_in_area input,
+	.ger_in_area textarea {
+		padding: 10px;
+		font-size: 14px;
+	}
+
+	.user_contact {
+		padding-top: 0px;
+	}
+
+	/*===================
+	  GET IN TOUCH END
+	=====================*/
+
+	/***********************
+	  BLOG PAGE START
+	************************/
+	#blog_page {
+		padding-top: 15px;
+	}
+
+	#blog_page .heading_area {
+		margin-bottom: -30px;
+	}
+
+	/***********************
+	  BLOG PAGE END
+	************************/
+
+	/***********************
+	  BLOG DETAILS START
+	************************/
+	#blog_details {
+		padding-top: 60px;
+	}
+
+	.block_business_img {
+		display: block;
+		overflow: hidden;
+	}
+
+	.blog_business img {
+		margin-bottom: 30px;
+		margin-right: 0;
+	}
+
+	.blog_business ul li {
+		font-size: 13px;
+	}
+
+	.left_btn_area span {
+		font-size: 13px;
+		padding: 10px 15px;
+	}
+
+	.share_blog h4 {
+		font-size: 18px;
+	}
+
+	.single_comment .comm_img {
+		width: 12%;
+	}
+
+	.comm_text {
+		width: 87%;
+	}
+
+	.comm_text h5 {
+		font-size: 14px;
+	}
+
+	.comm_text p {
+		font-size: 13px;
+	}
+
+	.comm_bottom h3 {
+		font-size: 15px;
+	}
+
+	.comm_bottom h6 {
+		font-size: 12px;
+	}
+
+	.comment_input .input_1,
+	.comment_input .input_2,
+	.comment_input .input_3,
+	.comment_input textarea {
+		width: 100%;
+		border-radius: 5px;
+		margin-top: 20px;
+	}
+
+	.comment_input .form-check label {
+		font-size: 13px;
+	}
+
+	.blog_right {
+		margin-top: 40px;
+	}
+
+	.tag_link li:nth-child(3) a,
+	.tag_link li:nth-child(6) a {
+		margin-right: 10px;
+	}
+
+	.recent_post .tag_link li a {
+		padding: 7px 11px;
+		margin-right: 12px;
+		margin-bottom: 5px;
+		font-size: 12px;
+	}
+
+	.recent_post {
+		margin-top: 40px;
+	}
+
+	.blockquot p {
+		font-size: 14px;
+	}
+
+	/***********************
+	  BLOG DETAILS END
+	************************/
+
+	/***********************
+		FAQS PAGE START
+	************************/
+	#accordion {
+		padding-top: 35px;
+	}
+
+	#accordion .accordion_img {
+		margin-top: 30px;
+	}
+
+	#accordion .heading_area {
+		margin-bottom: 39px;
+	}
+
+	/***********************
+		FAQS PAGE END
+	************************/
+
+	/***********************
+		LOGIN PAGE START
+	************************/
+	#logon {
+		padding-top: 60px;
+	}
+
+	/***********************
+		LOGIN PAGE END
+	************************/
+
+	/***********************
+	  PRICING PAGE START
+	************************/
+	#member_pricing {
+		padding-top: 35px;
+		margin-bottom: -30px;
+	}
+
+	#member_pricing .price_btn {
+		margin-bottom: 35px;
+	}
+
+	.member_price {
+		margin-bottom: 30px;
+		margin-top: 0;
+	}
+
+	/***********************
+	  PRICING PAGE END
+	************************/
+
+	/***********************
+	 TESTIMONIAL PAGE START
+	************************/
+	.review_page {
+		padding-top: 60px !important;
+	}
+
+	.review_page .heading_area {
+		margin-bottom: 35px !important;
+	}
+
+	/***********************
+	  TESTIMONIAL PAGE END
+	************************/
+	.contact_box {
+		margin-bottom: 30px;
+	}
+
+	.ger_in_area {
+		margin-top: 20px;
+	}
+
+	.contact_map {
+		margin-top: 25px;
+	}
+
+	.main_menu .navbar-nav .nav-item .nav-link {
+		color: #378FFF;
+		line-height: 55px;
+	}
+
+	.menu_right {
+		justify-content: center;
+	}
+
+	.menu_right li a {
+		background: #07123b;
+		color: #fff;
+		margin: 10px 0px 10px 0px;
+	}
+
+	.menu_fix .navbar-brand .logo_blue {
+		display: none;
+	}
+
+	.menu_fix .navbar-brand .logo_white {
+		display: block;
+	}
+
+	.work_img img {
+		height: 450px;
+	}
+
+	.work_img {
+		margin-bottom: 40px;
+		margin-top: 60px;
+		width: 450px;
+	}
+
+	#why_choose_part {
+		padding: 60px 0px 55px 0px;
+	}
+
+	.why_choose_img {
+		height: 600px;
+		margin-bottom: 40px;
+	}
+
+	.why_choose_img .img_1 {
+		width: 550px !important;
+		height: 550px !important;
+	}
+
+	.why_choose_img .img_2,
+	.why_choose_img .img_3 {
+		width: 250px !important;
+		height: 250px !important;
+	}
+
+	.why_choose_img .img_3 {
+		left: 0;
+		bottom: 70px;
+	}
+
+	.why_choose_img .img_2 {
+		position: absolute;
+		top: 20px;
+	}
+
+	.why_choose_text {
+		padding-left: 0;
+	}
+
+	.single_slider {
+		padding: 30px;
+	}
+
+	.clients_img img {
+		width: 140px;
+		height: 140px;
+	}
+
+	.clients_text::after {
+		top: 33px;
+		left: 0;
+		font-size: 35px;
+	}
+
+	.single_blog img {
+		height: 215px;
+	}
+
+	.subscribe_bg_overlay {
+		padding: 35px 35px 40px 35px;
+	}
+
+	.foot_overlay {
+		padding-top: 142px;
+	}
+
+	.single_card {
+		padding: 30px;
+	}
+
+	.single_blog .title {
+		font-size: 18px;
+	}
+
+	#breadcrumb_part .img {
+		width: 280px;
+		height: 120px;
+	}
+
+	.single_post .single_img {
+		width: 20%;
+	}
+
+	.single_post .single_text {
+		width: 76%;
+	}
+
+	.member_price ul li {
+		font-size: 14px;
+	}
+
+	/* dashboard start */
+	.wsus__dashboard {
+		margin-top: 60px;
+	}
+
+	.wsus__dashboard_content {
+		padding: 15px;
+	}
+
+	.ai_writing_sidebar {
+		padding: 20px;
+	}
+
+	.wsus__dashboard .member_price {
+		margin-top: 25px;
+		margin-bottom: 0;
+		padding: 20px;
+	}
+
+	/* dashboard end */
+
+	/* checkout start */
+	.wsus__checkout {
+		margin-top: 60px;
+	}
+
+	.wsus__package_details {
+		margin-top: 25px;
+	}
+
+	/* checkout end */
+
+
+	.wsus__terms_condition {
+		margin-top: 30px;
+	}
+
+	.wsus__terms_condition_text h2 {
+		font-size: 25px;
+	}
+
+	.wsus__terms_condition_text h3 {
+		font-size: 22px;
+	}
+
+	.wsus__terms_condition_text h4 {
+		font-size: 20px;
+	}
+
+	.wsus__404 {
+		margin-top: 55px;
+	}
+
+	.wsus__404_text .img {
+		height: 330px;
+	}
+
+	.main_menu .droap_menu {
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-o-transform: translateX(-50%);
+	}
+
+	.sub_menu {
+		left: 20px;
+		width: 250px;
+	}
+
+	.droap_menu li:hover .sub_menu {
+		top: 100%;
+	}
+
+	.droap_menu li>a>i {
+		padding-right: 10px !important;
+		transform: rotate(90deg);
+		padding-left: 10px;
+	}
+
+}
+
+@media (min-width: 576px) and (max-width: 767.99px) {
+
+	/******************************
+		HOME PAGE START 
+	*******************************/
+	/*===================
+		MENU START
+	=====================*/
+	.main_menu {
+		height: 60px;
+		border-bottom: 1px solid #378FFF;
+		background: #378FFF;
+	}
+
+	.main_menu .container {
+		padding: 3px 0px 5px 0px;
+	}
+
+	.main_menu .navbar-brand {
+		margin-left: 15px;
+		width: 120px;
+	}
+
+	.main_menu .navbar-toggler {
+		outline: 0;
+		margin-right: 15px;
+		border: 1px solid #fff;
+		padding: 0;
+		color: #fff;
+		border-radius: 3px;
+		width: 35px;
+		height: 35px;
+		line-height: 32px;
+		text-align: center;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	.main_menu #navbarSupportedContent {
+		background: #fff;
+		padding: 15px 0px;
+		text-align: center;
+		margin-top: 11px;
+		border-bottom: 1px solid #378FFF;
+	}
+
+	.dropdown-menu.show {
+		display: block;
+		margin-right: 25px;
+	}
+
+	.dropdown-menu.show {
+		margin-left: -107px;
+	}
+
+	/*===================
+		MENU END
+	=====================*/
+
+	/*===================
+		BANNER START
+	=====================*/
+	#banner {
+		padding: 130px 0px 90px 0px;
+		height: auto;
+	}
+
+	.banner_text {
+		text-align: center;
+		height: auto !important;
+		align-items: center;
+	}
+
+	.banner_text h1 {
+		font-size: 30px;
+	}
+
+	.banner_text p {
+		font-size: 18px;
+		margin: 24px 0px 36px 0px;
+		width: 100%;
+	}
+
+	.banner_text a {
+		margin-bottom: 20px;
+	}
+
+	.common_btn {
+		font-size: 14px;
+		padding: 14px 20px;
+	}
+
+	.banner_text .common_btn {
+		margin-bottom: 20px;
+	}
+
+	.banner_img {
+		margin-top: 40px;
+	}
+
+	/*===================
+		BANNER END
+	=====================*/
+
+	/*===================
+		WORK START
+	=====================*/
+
+	#work_part {
+		padding: 0px 0px 37px 0px;
+	}
+
+	.work_text {
+		margin-top: 40px;
+	}
+
+	.medium_heading {
+		font-size: 25px;
+		margin: 20px 0px 25px 0px;
+		width: 100%;
+	}
+
+	/*===================
+		WORK END
+	=====================*/
+
+	/*===================
+	  CARD PART START
+	=====================*/
+	#card_part {
+		padding: 58px 0px 40px 0px;
+	}
+
+	.card_area {
+		margin-top: 15px;
+	}
+
+	/*===================
+	  CARD PART END
+	=====================*/
+
+	/*===================
+	  PROFILE START
+	=====================*/
+	#profile_part {
+		padding: 60px 0px 30px 0px;
+	}
+
+	#profile_part .heading_area {
+		margin-bottom: 40px;
+	}
+
+	/*===================
+	  PROFILE END
+	=====================*/
+
+	/*===================
+		PRICING  START
+	=====================*/
+	#pricing_part {
+		padding-bottom: 30px;
+	}
+
+	#pricing_part .nav-tabs {
+		margin-bottom: 40px;
+	}
+
+	#pricing_part .nav-tabs .nav-link {
+		font-size: 13px;
+	}
+
+	.single_price {
+		margin-bottom: 30px;
+	}
+
+	/*===================
+		PRICING  END
+	=====================*/
+
+	/*===================
+	  TESTIMONIAL START
+	=====================*/
+	#testimonial {
+		padding: 58px 0px 60px 0px;
+	}
+
+	.clients_text {
+		text-align: center;
+		margin: 0;
+		margin-top: 35px;
+		border-top: 1px solid #378fff24;
+		border-left: 0;
+		padding-left: 0;
+	}
+
+	.clients_text p {
+		font-size: 14px;
+	}
+
+	.clients_text h3 {
+		margin: 20px 0px 16px 0px;
+	}
+
+	/*===================
+	  TESTIMONIAL END
+	=====================*/
+
+	/*===================
+	  BLOG PART START
+	=====================*/
+	#blog_part {
+		padding: 57px 0px 0px 0px;
+		padding-bottom: 0px !important;
+	}
+
+	.blog_area {
+		margin-top: -15px;
+	}
+
+	.single_blog {
+		margin-top: 25px;
+	}
+
+	/*===================
+	  BLOG PART END
+	=====================*/
+
+	/*===================
+	  SUBSCRIBE PART START
+	=====================*/
+	#subscribe {
+		padding-top: 58px;
+	}
+
+	.subs_text h3 {
+		font-size: 25px;
+		margin-bottom: 15px;
+		text-align: center;
+	}
+
+	.subs_text h3::after {
+		height: 3px;
+		top: 0px;
+	}
+
+	.subs_form form input {
+		padding: 10px 20px;
+	}
+
+	.subs_form form button {
+		padding: 7px 10px;
+	}
+
+	/*===================
+	  SUBSCRIBE PART END
+	=====================*/
+
+	/*===================
+	   FOOTER   START
+	=====================*/
+	footer {
+		background-position: left;
+	}
+
+	footer h3 {
+		margin-bottom: 17px;
+		font-size: 17px;
+	}
+
+	.footer_text {
+		margin-bottom: 40px;
+		overflow: hidden;
+	}
+
+	.footer_link li {
+		margin-bottom: 7px;
+	}
+
+	.footer_bottom p {
+		font-size: 14px;
+	}
+
+	.footer_bottom {
+		margin-top: 0;
+		padding: 10px 0px;
+	}
+
+	/*===================
+		FOOTER   END
+	=====================*/
+	/******************************
+	HOME PAGE END 
+	*******************************/
+
+	/*===================
+	   BREADCRUMB START
+	=====================*/
+	.bread_overlay {
+		padding: 130px 0px 58px 0px;
+	}
+
+	#breadcrumb_part h4 {
+		font-size: 35px;
+	}
+
+	#breadcrumb_part nav {
+		margin-top: 5px;
+	}
+
+	#breadcrumb_part li {
+		font-size: 16px;
+	}
+
+	.breadcrumb-item+.breadcrumb-item::before {
+		padding-left: 6px;
+		padding-right: 15px;
+	}
+
+	/*===================
+	   BREADCRUMB END
+	=====================*/
+
+	.about {
+		padding: 0px 0px 110px 0px !important;
+	}
+
+	.about .about_img {
+		margin-top: 50px;
+	}
+
+	/*===================
+	  BLOG START
+	=====================*/
+
+	#blog_part .heading_area {
+		margin-bottom: 20px;
+	}
+
+	/*===================
+	  BLOG END
+	=====================*/
+
+	/*===================
+	  GET IN TOUCH START
+	=====================*/
+	#get_in_touch {
+		padding-bottom: 0;
+		margin-top: 60px;
+	}
+
+	#get_in_touch .heading_area {
+		margin-bottom: 34px;
+	}
+
+	.ger_in_area input,
+	.ger_in_area textarea {
+		padding: 10px;
+		font-size: 14px;
+	}
+
+	.user_contact {
+		padding-top: 0px;
+	}
+
+	/*===================
+	  GET IN TOUCH END
+	=====================*/
+
+	/***********************
+	  BLOG PAGE START
+	************************/
+	#blog_page {
+		padding-top: 15px;
+	}
+
+	#blog_page .heading_area {
+		margin-bottom: -30px;
+	}
+
+	/***********************
+	  BLOG PAGE END
+	************************/
+
+	/***********************
+	  BLOG DETAILS START
+	************************/
+	#blog_details {
+		padding-top: 60px;
+	}
+
+	.block_business_img {
+		display: block;
+		overflow: hidden;
+	}
+
+	.blog_business img {
+		margin-bottom: 30px;
+		margin-right: 0;
+	}
+
+	.blog_business ul li {
+		font-size: 13px;
+	}
+
+	.left_btn_area span {
+		font-size: 13px;
+		padding: 10px 15px;
+	}
+
+	.share_blog h4 {
+		font-size: 18px;
+	}
+
+	.single_comment .comm_img {
+		width: 15%;
+	}
+
+	.comm_text {
+		width: 83%;
+	}
+
+	.comm_text .com_top_area {
+		font-size: 13px;
+	}
+
+	.comm_text h5 {
+		font-size: 14px;
+	}
+
+	.comm_text p {
+		font-size: 13px;
+	}
+
+	.comm_bottom h3 {
+		font-size: 15px;
+	}
+
+	.comm_bottom h6 {
+		font-size: 12px;
+	}
+
+	.comment_input .input_1,
+	.comment_input .input_2,
+	.comment_input .input_3,
+	.comment_input textarea {
+		width: 100%;
+		border-radius: 5px;
+		margin-top: 20px;
+	}
+
+	.comment_input .form-check label {
+		font-size: 13px;
+	}
+
+	.tag_link li:nth-child(3) a,
+	.tag_link li:nth-child(6) a {
+		margin-right: 10px;
+	}
+
+	.recent_post .tag_link li a {
+		padding: 7px 11px;
+		margin-right: 12px;
+		margin-bottom: 5px;
+		font-size: 12px;
+	}
+
+	.recent_post {
+		margin-top: 40px;
+	}
+
+	.blockquot p {
+		font-size: 14px;
+	}
+
+	/***********************
+	  BLOG DETAILS END
+	************************/
+
+	/***********************
+		FAQS PAGE START
+	************************/
+	#accordion {
+		padding-top: 35px;
+	}
+
+	#accordion .accordion_img {
+		margin-top: 30px;
+	}
+
+	#accordion .heading_area {
+		margin-bottom: 39px;
+	}
+
+	.accordion_area .accordion-button {
+		font-size: 14px;
+		text-align: left;
+	}
+
+	/***********************
+		FAQS PAGE END
+	************************/
+
+	/***********************
+		LOGIN PAGE START
+	************************/
+	#logon {
+		padding-top: 60px;
+	}
+
+	/***********************
+		LOGIN PAGE END
+	************************/
+
+	/***********************
+	  PRICING PAGE START
+	************************/
+	#member_pricing {
+		padding-top: 35px;
+		margin-bottom: -30px;
+	}
+
+	#member_pricing .price_btn {
+		margin-bottom: 35px;
+	}
+
+	.member_price {
+		margin-bottom: 30px;
+		margin-top: 0;
+	}
+
+	/***********************
+	  PRICING PAGE END
+	************************/
+
+	/***********************
+	 TESTIMONIAL PAGE START
+	************************/
+	.review_page {
+		padding-top: 60px !important;
+	}
+
+	.review_page .heading_area {
+		margin-bottom: 35px !important;
+	}
+
+	/***********************
+	  TESTIMONIAL PAGE END
+	************************/
+	.contact_box_icon i {
+		font-size: 20px;
+	}
+
+	.contact_box {
+		margin-bottom: 30px;
+	}
+
+	.ger_in_area {
+		margin-top: 20px;
+		padding: 20px;
+	}
+
+	.contact_map {
+		margin-top: 25px;
+		height: 400px;
+	}
+
+	.main_menu .navbar-nav .nav-item .nav-link {
+		color: #378FFF;
+		line-height: 55px;
+	}
+
+	.menu_right {
+		justify-content: center;
+	}
+
+	.menu_right li a {
+		background: #07123b;
+		color: #fff;
+		margin: 10px 0px 10px 0px;
+	}
+
+	.menu_fix .navbar-brand .logo_blue {
+		display: none;
+	}
+
+	.menu_fix .navbar-brand .logo_white {
+		display: block;
+	}
+
+	.work_img img {
+		height: 450px;
+	}
+
+	.work_img {
+		margin-bottom: 40px;
+		margin-top: 60px;
+	}
+
+	#why_choose_part {
+		padding: 60px 0px 55px 0px;
+	}
+
+	.why_choose_img {
+		height: 460px;
+		margin-bottom: 40px;
+	}
+
+	.why_choose_img .img_1 {
+		width: 460px !important;
+		height: 460px !important;
+	}
+
+	.why_choose_img .img_2,
+	.why_choose_img .img_3 {
+		width: 200px !important;
+		height: 200px !important;
+	}
+
+	.why_choose_img .img_3 {
+		left: 0;
+		bottom: 20px;
+	}
+
+	.why_choose_img .img_2 {
+		position: absolute;
+		top: 20px;
+	}
+
+	.why_choose_text {
+		padding-left: 0;
+	}
+
+	.why_choose_text ul li .text {
+		width: 81%;
+	}
+
+	.clients_img img {
+		width: 200px;
+		height: 200px;
+	}
+
+	.clients_text::after {
+		top: 33px;
+		left: 0;
+		font-size: 35px;
+	}
+
+	.single_blog img {
+		height: 270px;
+	}
+
+	.subscribe_bg_overlay {
+		padding: 25px 25px 30px 25px;
+	}
+
+	.foot_overlay {
+		padding-top: 142px;
+	}
+
+	.single_card {
+		padding: 20px;
+	}
+
+	.single_card h4 {
+		font-size: 18px;
+	}
+
+	#breadcrumb_part .img {
+		width: 230px;
+		height: 100px;
+	}
+
+	.about_img span {
+		width: 200px;
+		height: 200px;
+	}
+
+	/* blog details start */
+	.blog_left {
+		box-shadow: none;
+		padding: 0;
+		margin-bottom: 30px;
+	}
+
+	.main_blog .img {
+		height: 300px;
+	}
+
+	.single_post .single_text {
+		width: 64%;
+	}
+
+	/* blog details end */
+
+	/* dashboard start */
+	.wsus__dashboard {
+		margin-top: 60px;
+	}
+
+	.wsus__dashboard_content {
+		padding: 15px;
+	}
+
+	.ai_writing_sidebar {
+		padding: 20px;
+		margin-bottom: 25px;
+	}
+
+	.wsus__invoice_header {
+		padding: 0px 15px;
+	}
+
+	.wsus__invoice_header .header_address {
+		max-width: 100%;
+		margin: 15px 0px;
+	}
+
+	.wsus__dashboard .member_price {
+		margin-top: 25px;
+		margin-bottom: 0;
+	}
+
+	/* dashboard end */
+
+	/* checkout start */
+	.wsus__checkout {
+		margin-top: 60px;
+	}
+
+	.wsus__pay_details,
+	.wsus__package_details {
+		margin-top: 25px;
+	}
+
+	/* checkout end */
+
+	.wsus__terms_condition {
+		margin-top: 35px;
+	}
+
+	.wsus__terms_condition_text h2 {
+		font-size: 25px;
+	}
+
+	.wsus__terms_condition_text h3 {
+		font-size: 22px;
+	}
+
+	.wsus__terms_condition_text h4 {
+		font-size: 20px;
+	}
+
+	.wsus__404 {
+		margin-top: 55px;
+	}
+
+	.main_menu .droap_menu {
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-o-transform: translateX(-50%);
+	}
+
+	.sub_menu {
+		left: 20px;
+		width: 250px;
+	}
+
+	.droap_menu li:hover .sub_menu {
+		top: 100%;
+	}
+
+	.droap_menu li>a>i {
+		padding-right: 10px !important;
+		transform: rotate(90deg);
+		padding-left: 10px;
+	}
+}
+
+@media (max-width: 575px) {
+
+	/******************************
+		HOME PAGE START 
+	*******************************/
+	/*===================
+		MENU START
+	=====================*/
+	.main_menu {
+		height: 60px;
+		border-bottom: 1px solid #378FFF;
+		background: #378FFF;
+	}
+
+	.main_menu .container {
+		padding: 3px 0px 5px 0px;
+	}
+
+	.main_menu .navbar-brand {
+		margin-left: 15px;
+		width: 120px;
+	}
+
+	.main_menu .navbar-toggler {
+		outline: 0;
+		margin-right: 15px;
+		border: 1px solid #fff;
+		padding: 0;
+		color: #fff;
+		border-radius: 3px;
+		width: 35px;
+		height: 35px;
+		line-height: 32px;
+		text-align: center;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	.main_menu #navbarSupportedContent {
+		background: #fff;
+		padding: 15px 0px;
+		text-align: center;
+		margin-top: 11px;
+		border-bottom: 1px solid #378FFF;
+	}
+
+	.dropdown-menu.show {
+		display: block;
+		margin-right: 25px;
+	}
+
+	.dropdown-menu.show {
+		margin-left: -107px;
+	}
+
+	/*===================
+		MENU END
+	=====================*/
+
+	/*===================
+		BANNER START
+	=====================*/
+	#banner {
+		padding: 80px 0px 40px 0px;
+		height: auto;
+	}
+
+	.banner_text {
+		text-align: center;
+		height: auto !important;
+		align-items: center;
+	}
+
+	.banner_text h1 {
+		font-size: 30px;
+	}
+
+	.banner_text p {
+		font-size: 18px;
+		margin: 24px 0px 36px 0px;
+		width: 100%;
+	}
+
+	.banner_text a {
+		margin-bottom: 20px;
+	}
+
+	.common_btn {
+		font-size: 14px;
+		padding: 14px 20px;
+	}
+
+	.banner_text .common_btn {
+		margin-bottom: 20px;
+	}
+
+	.banner_img {
+		margin-top: 40px;
+	}
+
+	/*===================
+		BANNER END
+	=====================*/
+
+	/*===================
+		WORK START
+	=====================*/
+
+	#work_part {
+		padding: 0px 0px 37px 0px;
+	}
+
+	.work_text {
+		margin-top: 40px;
+	}
+
+	.small_heading {
+		text-align: center;
+		display: block;
+		width: 100%;
+	}
+
+	.medium_heading {
+		font-size: 25px;
+		text-align: center;
+		margin: 20px 0px 25px 0px;
+		width: 100%;
+	}
+
+	.read_btn {
+		font-size: 13px;
+		padding: 8px 15px;
+	}
+
+	/*===================
+		WORK END
+	=====================*/
+
+	/*===================
+	  CARD PART START
+	=====================*/
+	#card_part {
+		padding: 58px 0px 33px 0px;
+	}
+
+	.card_area {
+		margin-top: 15px;
+	}
+
+	/*===================
+	  CARD PART END
+	=====================*/
+
+	/*===================
+	  PROFILE START
+	=====================*/
+	#profile_part {
+		padding: 60px 0px 30px 0px;
+	}
+
+	#profile_part .heading_area {
+		margin-bottom: 40px;
+	}
+
+	/*===================
+	  PROFILE END
+	=====================*/
+
+	/*===================
+		PRICING  START
+	=====================*/
+	#pricing_part {
+		padding-bottom: 30px;
+	}
+
+	#pricing_part .nav-tabs {
+		margin-bottom: 40px;
+	}
+
+	#pricing_part .nav-tabs .nav-link {
+		font-size: 13px;
+	}
+
+	.single_price {
+		margin-bottom: 30px;
+	}
+
+	/*===================
+		PRICING  END
+	=====================*/
+
+	/*===================
+	  TESTIMONIAL START
+	=====================*/
+	#testimonial {
+		padding: 58px 0px 60px 0px;
+	}
+
+	.clients_text {
+		text-align: center;
+		margin: 0;
+		margin-top: 35px;
+		border-top: 1px solid #378fff24;
+		border-left: 0;
+		padding-left: 0;
+	}
+
+	.clients_text p {
+		font-size: 14px;
+	}
+
+	.clients_text h3 {
+		margin: 20px 0px 16px 0px;
+	}
+
+	/*===================
+	  TESTIMONIAL END
+	=====================*/
+
+	/*===================
+	  BLOG PART START
+	=====================*/
+	#blog_part {
+		padding: 57px 0px 0px 0px;
+		padding-bottom: 0px !important;
+	}
+
+	.blog_area {
+		margin-top: -15px;
+	}
+
+	.single_blog {
+		margin-top: 25px;
+		padding: 10px;
+	}
+
+	/*===================
+	  BLOG PART END
+	=====================*/
+
+	/*===================
+	  SUBSCRIBE PART START
+	=====================*/
+	#subscribe {
+		padding-top: 58px;
+	}
+
+	.subs_text h3 {
+		font-size: 18px;
+		margin-bottom: 15px;
+		text-align: center;
+	}
+
+	.subs_text h3::after {
+		height: 3px;
+		top: 0px;
+	}
+
+	.subs_form form input {
+		padding: 10px 20px;
+	}
+
+	.subs_form form button {
+		padding: 7px 10px;
+	}
+
+	/*===================
+	  SUBSCRIBE PART END
+	=====================*/
+
+	/*===================
+	   FOOTER   START
+	=====================*/
+	footer {
+		background-position: left;
+	}
+
+	footer h3 {
+		margin-bottom: 17px;
+		font-size: 17px;
+	}
+
+	.footer_text {
+		margin-bottom: 40px;
+		overflow: hidden;
+	}
+
+	.footer_link li {
+		margin-bottom: 7px;
+	}
+
+	.footer_bottom p {
+		font-size: 14px;
+	}
+
+	.footer_bottom {
+		margin-top: 0;
+		padding: 10px 0px;
+	}
+
+	/*===================
+		FOOTER   END
+	=====================*/
+	/******************************
+	HOME PAGE END 
+	*******************************/
+
+	/*===================
+	   BREADCRUMB START
+	=====================*/
+	.bread_overlay {
+		padding: 112px 0px 38px 0px;
+	}
+
+	#breadcrumb_part h4 {
+		font-size: 25px;
+	}
+
+	#breadcrumb_part nav {
+		margin-top: 5px;
+	}
+
+	#breadcrumb_part li {
+		font-size: 14px;
+	}
+
+	.breadcrumb-item+.breadcrumb-item::before {
+		padding-left: 6px;
+		padding-right: 15px;
+	}
+
+	/*===================
+	   BREADCRUMB END
+	=====================*/
+
+	.about {
+		padding: 0px 0px 110px 0px !important;
+	}
+
+	.about .about_img {
+		margin-top: 50px;
+		padding-left: 50px;
+	}
+
+	/*===================
+	  BLOG START
+	=====================*/
+
+	#blog_part .heading_area {
+		margin-bottom: 20px;
+	}
+
+	/*===================
+	  BLOG END
+	=====================*/
+
+	/*===================
+	  GET IN TOUCH START
+	=====================*/
+	#get_in_touch {
+		padding-bottom: 0;
+		margin-top: 60px;
+	}
+
+	#get_in_touch .heading_area {
+		margin-bottom: 34px;
+	}
+
+	.ger_in_area input,
+	.ger_in_area textarea {
+		padding: 10px;
+		font-size: 14px;
+	}
+
+	.user_contact {
+		padding-top: 0px;
+	}
+
+	/*===================
+	  GET IN TOUCH END
+	=====================*/
+
+	/***********************
+	  BLOG PAGE START
+	************************/
+	#blog_page {
+		padding-top: 15px;
+	}
+
+	#blog_page .heading_area {
+		margin-bottom: -30px;
+	}
+
+	/***********************
+	  BLOG PAGE END
+	************************/
+
+	/***********************
+	  BLOG DETAILS START
+	************************/
+	#blog_details {
+		padding-top: 60px;
+	}
+
+	.block_business_img {
+		display: block;
+		overflow: hidden;
+	}
+
+	.blog_business img {
+		margin-bottom: 30px;
+		margin-right: 0;
+	}
+
+	.blog_business ul li {
+		font-size: 13px;
+	}
+
+	.left_btn_area span {
+		font-size: 13px;
+		padding: 10px 15px;
+	}
+
+	.share_blog h4 {
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.single_comment .comm_img {
+		width: 20%;
+	}
+
+	.single_comment .comm_img img {
+		width: 50px;
+		height: 50px;
+	}
+
+	.comm_text {
+		width: 80%;
+	}
+
+	.comm_text .com_top_area {
+		font-size: 13px;
+	}
+
+	.comm_text h5 {
+		font-size: 14px;
+	}
+
+	.comm_text p {
+		font-size: 13px;
+	}
+
+	.comm_bottom h3 {
+		font-size: 15px;
+	}
+
+	.comm_bottom h6 {
+		font-size: 12px;
+	}
+
+	.comment_input .input_1,
+	.comment_input .input_2,
+	.comment_input .input_3,
+	.comment_input textarea {
+		width: 100%;
+		border-radius: 5px;
+		margin-top: 20px;
+	}
+
+	.comment_input .form-check label {
+		font-size: 13px;
+	}
+
+	.tag_link li:nth-child(3) a,
+	.tag_link li:nth-child(6) a {
+		margin-right: 10px;
+	}
+
+	.recent_post .tag_link li a {
+		padding: 7px 11px;
+		margin-right: 12px;
+		margin-bottom: 5px;
+		font-size: 12px;
+	}
+
+	.recent_post {
+		padding: 15px;
+	}
+
+	.blockquot p {
+		font-size: 14px;
+	}
+
+	/***********************
+	  BLOG DETAILS END
+	************************/
+
+	/***********************
+		FAQS PAGE START
+	************************/
+	#accordion {
+		padding-top: 35px;
+	}
+
+	#accordion .accordion_img {
+		margin-top: 30px;
+	}
+
+	#accordion .heading_area {
+		margin-bottom: 39px;
+	}
+
+	.accordion_area .accordion-button {
+		font-size: 14px;
+		text-align: left;
+	}
+
+	/***********************
+		FAQS PAGE END
+	************************/
+
+	/***********************
+		LOGIN PAGE START
+	************************/
+	#logon {
+		padding-top: 60px;
+	}
+
+	.login_form {
+		padding: 20px;
+		/* margin-bottom: 40px; */
+	}
+
+	/***********************
+		LOGIN PAGE END
+	************************/
+
+	/***********************
+	  PRICING PAGE START
+	************************/
+	#member_pricing {
+		padding-top: 35px;
+		margin-bottom: -30px;
+	}
+
+	#member_pricing .price_btn {
+		margin-bottom: 35px;
+	}
+
+	.member_price {
+		margin-bottom: 30px;
+		margin-top: 0;
+		padding: 12px 15px 10px 15px;
+	}
+
+	/***********************
+	  PRICING PAGE END
+	************************/
+
+	/***********************
+	 TESTIMONIAL PAGE START
+	************************/
+	.review_page {
+		padding-top: 60px !important;
+	}
+
+	.review_page .heading_area {
+		margin-bottom: 35px !important;
+	}
+
+	/***********************
+	  TESTIMONIAL PAGE END
+	************************/
+	.contact_box_icon i {
+		font-size: 20px;
+	}
+
+	.contact_box {
+		margin-bottom: 30px;
+	}
+
+	.ger_in_area {
+		margin-top: 20px;
+		padding: 20px;
+	}
+
+	.contact_map {
+		margin-top: 25px;
+		height: 300px;
+	}
+
+	.main_menu .navbar-nav .nav-item .nav-link {
+		color: #378FFF;
+		line-height: 55px;
+	}
+
+	.menu_right {
+		justify-content: center;
+	}
+
+	.menu_right li a {
+		background: #07123b;
+		color: #fff;
+		margin: 10px 0px 10px 0px;
+	}
+
+	.menu_fix .navbar-brand .logo_blue {
+		display: none;
+	}
+
+	.menu_fix .navbar-brand .logo_white {
+		display: block;
+	}
+
+	.work_img img {
+		height: 270px;
+	}
+
+	.work_img {
+		margin-bottom: 40px;
+		margin-top: 60px;
+	}
+
+	#why_choose_part {
+		padding: 60px 0px 55px 0px;
+	}
+
+	.why_choose_img {
+		height: 460px;
+		margin-bottom: 40px;
+	}
+
+	.why_choose_img .img_1 {
+		width: 300px !important;
+		height: 300px !important;
+		margin-bottom: 25px;
+	}
+
+	.why_choose_img .img_2,
+	.why_choose_img .img_3 {
+		width: 140px !important;
+		height: 140px !important;
+	}
+
+	.why_choose_img .img_3 {
+		left: auto;
+		right: 0;
+	}
+
+	.why_choose_img .img_2 {
+		position: absolute;
+		top: auto;
+		bottom: 0px;
+	}
+
+	.why_choose_text {
+		padding-left: 0;
+	}
+
+	.why_choose_text ul li .icon {
+		width: 60px;
+		height: 60px;
+		line-height: 60px;
+		font-size: 20px;
+		margin-right: 15px;
+	}
+
+	.why_choose_text ul li .text {
+		width: 73%;
+	}
+
+	.single_slider {
+		padding: 15px;
+	}
+
+	.clients_img img {
+		width: 200px;
+		height: 200px;
+	}
+
+	.clients_text::after {
+		top: 33px;
+		left: 0;
+		font-size: 35px;
+	}
+
+	.single_blog img {
+		height: 200px;
+	}
+
+	.subscribe_bg_overlay {
+		padding: 20px 20px 25px 20px;
+	}
+
+	.foot_overlay {
+		padding-top: 142px;
+	}
+
+	#breadcrumb_part .img {
+		width: 160px;
+		height: 70px;
+	}
+
+	.about_img span {
+		width: 150px;
+		height: 150px;
+		border: 5px solid #fff;
+	}
+
+	/* blog details start */
+	.blog_left {
+		box-shadow: none;
+		padding: 0;
+		margin-bottom: 30px;
+	}
+
+	.main_blog .img {
+		height: 230px;
+	}
+
+	.single_post .single_text {
+		width: 64%;
+	}
+
+	.blog_search {
+		padding: 15px;
+	}
+
+	.categorie {
+		padding: 15px 15px 0px 15px;
+	}
+
+	/* blog details end */
+
+	.member_price ul li {
+		font-size: 14px;
+	}
+
+	.member_price ul li::after {
+		top: -3px;
+	}
+
+	/* dashboard start */
+	.wsus__dashboard {
+		margin-top: 60px;
+	}
+
+	.wsus_dash_ai_history,
+	.wsus_dashboard_body .wsus__invoice,
+	.wsus_dash_personal_info,
+	.wsus__dashboard_content {
+		padding: 15px;
+	}
+
+	.ai_writing_sidebar {
+		padding: 15px;
+		margin-bottom: 25px;
+	}
+
+	.wsus__invoice_header {
+		padding: 0px 15px;
+	}
+
+	.wsus__invoice_header .header_address {
+		max-width: 100%;
+		margin: 15px 0px;
+	}
+
+	.wsus__dashboard .member_price {
+		margin-top: 25px;
+		margin-bottom: 0;
+	}
+
+	/* dashboard end */
+
+
+	/* checkout start */
+	.wsus__checkout {
+		margin-top: 60px;
+	}
+
+	.wsus__pay_details,
+	.wsus__package_details {
+		margin-top: 25px;
+	}
+
+	/* checkout end */
+
+	.wsus__terms_condition {
+		margin-top: 30px;
+	}
+
+	.wsus__terms_condition_text h2 {
+		font-size: 25px;
+	}
+
+	.wsus__terms_condition_text h3 {
+		font-size: 22px;
+	}
+
+	.wsus__terms_condition_text h4 {
+		font-size: 20px;
+	}
+
+	.wsus__404 {
+		margin-top: 55px;
+	}
+
+	.wsus__404_text .img {
+		height: 215px;
+	}
+
+	.wsus__404_text h2 {
+		font-size: 23px;
+	}
+
+	.main_menu .droap_menu {
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-o-transform: translateX(-50%);
+	}
+
+	.sub_menu {
+		left: 20px;
+		width: 250px;
+	}
+
+	.droap_menu li:hover .sub_menu {
+		top: 100%;
+	}
+
+	.droap_menu li>a>i {
+		padding-right: 10px !important;
+		transform: rotate(90deg);
+		padding-left: 10px;
+	}
+}
