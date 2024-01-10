@@ -1,3 +1,143 @@
+# SaaSavvy-Creations
+
+## AI-Techy AI Content Generator Tool with SAAS Module
+
+---
+
+- By: Abdullah Shahid
+- Email: [dev.abdullah.shahid@gmail.com](mailto:Abdullah)
+
+---
+
+## Introduction
+
+AI-TECHY is a software-as-a-service (SaaS) platform that leverages artificial intelligence to automatically generate written content. It aims to help users save time and boost productivity by creating high-quality, unique content within seconds. The AI engine is trained on a vast corpus of text and utilizes machine learning algorithms to produce coherent, grammatically correct, and semantically meaningful content.
+
+Key features of AI-TECHY include its writing assistant capabilities, making it a valuable tool for businesses, content creators, and marketers. Whether you need articles, blog posts, product descriptions, or other content types, AI-TECHY streamlines the creation process, allowing users to deliver engaging content efficiently. It is compatible with desktops, laptops, and mobile devices, supporting major browsers.
+
+The system is developed using the Laravel PHP framework, with a strong emphasis on security to prevent SQL injection, XSS attacks, and CSRF attacks.
+
+---
+
+## Features
+
+### Key Features
+
+- Laravel 9 as the PHP framework
+- Bootstrap 5 for design
+- User-friendly codes and easy navigation
+- Eye-catching and fully responsive design
+- Strong security measures
+- Blog Social Media share option
+- Subscription verification with email
+- Google Analytics
+- Facebook pixel
+- Google reCaptcha
+- Maintenance module
+- Tawk live chat
+- Dynamic language option
+- Social Login option
+- Customizable ERROR Page(400)
+- Email Template Setting
+- SEO Setting
+- 14+ Use Cases
+- Pricing Plan Module
+
+### Payment Methods
+
+- Paypal
+- Stripe
+- Razorpay
+- Flutterwave
+- Mollie
+- Paystack
+- Instamojo
+- Bank Payment
+
+### Use Cases
+
+- Business Idea Generation
+- Blog Idea & Outline
+- Blog Section Writing
+- Cover Letter
+- Facebook, Twitter, LinkedIn Ads
+- Google Search Ads
+- Video Idea
+- Video Description
+- SEO Meta Title
+- SEO Meta Description
+- Post and Caption Idea
+- Product Description
+- Tag generation
+- Custom Prompt
+
+### Admin Features
+
+- 100% secure admin panel
+- Use Case Management
+- Pricing Plan
+- Payment method management
+- Admin management
+- SEO Settings
+- Home page management
+- Maintenance mode management
+- Dynamic website footer
+- SMTP server mail
+- Email configuration and template setting
+- Cookie Consent option
+- Google Recaptcha option
+- Google Analytic option
+- Tawk Live Chat option
+- Facebook pixel option
+- Login with social media(facebook, gmail)
+- Manage HTTP request Error Page
+- General Setting management
+- Dynamic Pagination option
+- Multi-admin creation possible
+- Banner images change option
+- Clear database option to start the website as fresh installation
+- FAQ create, edit, and delete option
+- About Page management
+- Terms and Conditions, Privacy Policy Page management
+- Custom dynamic pages create, edit, and delete option
+- Language change option for front end and back end
+- Subscriber manage with email to subscribers option
+- Profile information, photo, password change option
+- Forget and reset password option
+- Blog Category create, edit, and delete option
+- Blog create, edit, and delete option
+- Manage Blog Comments
+- Contact message management
+- And more...
+
+### User Features
+
+- 100% responsive design
+- Regular Login system
+- Login with Facebook and Google
+- User registration system with email verification
+- User Login, forget, and reset password option
+- Profile information, photo, password change option
+- Pricing Plan purchase option (Subscription Module)
+- 14+ Use Cases
+
+---
+
+## Requirements
+
+Ensure that your server meets the following requirements:
+
+- PHP >= 8.0
+- BCMath PHP Extension
+- Ctype PHP Extension
+- Fileinfo PHP extension
+- JSON PHP Extension
+- Mbstring PHP Extension
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+
 # Installation
 
 The installation of this script is super easy. If you can install normal PHP-based scripts on your server, you can install our script. We will guide you through the installation process step by step on your server.
